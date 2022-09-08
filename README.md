@@ -3,6 +3,7 @@
 
 ## node.js 初学项目
 
+node.js + sqlite3
 
 在目录下创建/db/user.db文件
 
