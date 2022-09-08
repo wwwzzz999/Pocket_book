@@ -1,6 +1,8 @@
 # Pocket_book
 命令行交互式记账系统
 
+## node.js 初学项目
+
 
 在目录下创建/db/user.db文件
 
