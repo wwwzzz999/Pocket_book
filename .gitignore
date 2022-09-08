@@ -1,5 +1,9 @@
 /db/
 /test.js
 /node_modules/
+<<<<<<< HEAD
 /.gitignore
 /.vscode/
+=======
+/.vscode
+>>>>>>> ec4f925e48a4f35906f71a78139d8eb20b24cab4
